@@ -47,4 +47,4 @@ Ensure your final submission includes:
 * A brief report (report.md or similar) explaining your approach and any challenges faced.
 
 
-Good luck, and enjoy exploring the world of image stitching! If you have any questions, feel free to reach out.
+Good luck, and enjoy exploring the world of color detection! If you have any questions, feel free to reach out.
